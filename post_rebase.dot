@@ -1,0 +1,9 @@
+digraph{
+	rankdir=LR
+	D [ color=red, style=bold ]
+	A -> B
+	B -> C
+	C -> E
+	E -> F
+	F -> D
+}
